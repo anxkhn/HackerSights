@@ -27,13 +27,16 @@ A groundbreaking proof-of-concept tool designed to unveil comprehensive insights
 
 ### See it in action!
 
-![HackerSights Demo](media/demo.mp4)
+<!-- ![HackerSights Demo](media/demo.mp4) -->
+
+https://github.com/user-attachments/assets/ae72f6c5-4d04-4057-b662-9b4736c00345
+
 ![HackerSights Demo2](media/demo2.png)
 
 ## 🔗 Try HackerSights Now!
 
 Ready to experience the future of online assessment preparation?  
-[**🔗 hackersights.pythonanywhere.com**](https://hackersights.pythonanywhere.com)
+[**hackersights.pythonanywhere.com**](https://hackersights.pythonanywhere.com)
 
 ---
 
