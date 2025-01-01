@@ -31,7 +31,7 @@ A groundbreaking proof-of-concept tool designed to unveil comprehensive insights
 
 https://github.com/user-attachments/assets/ae72f6c5-4d04-4057-b662-9b4736c00345
 
-![HackerSights Demo2](media/demo2.png){: width="500" height="300"}
+<img src="media/demo2.png" alt="HackerSights Demo2">
 
 ## 🔗 Try HackerSights Now!
 
@@ -50,7 +50,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE). F
 
 This repository is a showcase and does not contain the actual source code of the tool. This tool is for educational and awareness purposes only.
 
-![Disclaimer](media/email.png){: width="250" height="150"}
+<img src="media/email.png" width="250" alt="Disclaimer">
 
 Please use it responsibly.
 The potential concerns with this tool have been communicated to **HackerRank**, and they are actively working on addressing them. Rest assured, this tool is solely for awareness and responsible usage.
